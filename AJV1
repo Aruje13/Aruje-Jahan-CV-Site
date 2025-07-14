@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My CV - Aruje Jahan</title>
+  <style>
+    body { font-family: sans-serif; margin: 40px; }
+    h1 { color: #333; }
+    section { margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Aruje Jahan</h1>
+  <p>Email: aruje@example.com | LinkedIn: linkedin.com/in/arujejahan</p>
+
+  <section>
+    <h2>Experience</h2>
+    <p><strong>Product Manager</strong> at Crypto SaaS</p>
+    <p>Managed product timelines and cross-functional teams...</p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Agile, Scrum, Jira</li>
+      <li>AWS Cloud, Product Strategy</li>
+      <li>Figma, CI/CD, Tokenomics</li>
+    </ul>
+  </section>
+</body>
+</html>
